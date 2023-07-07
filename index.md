@@ -43,15 +43,14 @@ For your second milestone, explain what you've worked on since your previous mil
 
 # First Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/no04TUmkrwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+- My first milestone was to essentially just write the code in order to display the Magic Mirror. I managed to set up the code in order to display the default display of the Magic Mirror
+- I had to install VScode in order to write this code as I do not have parts nor a Raspberry Pi as I write this because I am in Seoul, South Korea. Therefore, I am using a USB stick in order to house my Raspberry Pi OS, as well as a computer folder to house my code until my parts arrive.
+- During this milestone, my main problem was finding out a solution in order to get a crucial part of the work finished even though I have no parts, and luckily I managed to run the software on my computer, leading to the completion of my first milestone.
+- With this completion, I am starting to see that there are multiple ways to approach a rather unorthodox problem, and I hope I can keep solving these until the end.
+- <img width="730" alt="image" src="https://github.com/ykim79/BSE_Yuju_Portfolio/assets/138511348/15da7b35-c062-4807-b641-4b003cb0ef7a">
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
