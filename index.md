@@ -9,11 +9,13 @@ In this project, I created a Smart Mirror using a Raspberry Pi 4. This device go
 | Yuju K | Stevenson | Aerospace Engineering | Incoming Junior
 
 
-![Headstone Image](BSE_Yuju_Portfolio/assets/bluestamp.png)
+![Headstone Image](BSE_Yuju_Portfolio/docs/assets/bluestamp.png)
  
   # Final Milestone
 
+<div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QKRQ4_55l0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 - My third milestone was just to build everything around the smart mirror and setup the Raspberry Pi.
 - I booted up the Pi and installed the OS, from which it promptly took me to a home page to setup all my code.
@@ -21,35 +23,48 @@ In this project, I created a Smart Mirror using a Raspberry Pi 4. This device go
 - I am happy to report that the reinstallation was a success! Now all that it is left to do is build the case and now my smart mirror is finished! The challenges presented to me in this final stretch and throughout the project were tough, but it was satisfying to overcome them all.
 - The project gave me a sense of satisfaction and learning. It gave me insight on how the Raspberry Pi works, it's specific commands as well as how to write code for it and installing third-party modules. The project also helped my problem-solving skills, as whenever I encountered a problem, my reaction was not "What should I do" but rather "What can I do".
 
+<div align="center">
 <img width="590" alt="Screen Shot 2023-07-19 at 11 13 36 PM" src="https://github.com/ykim79/BSE_Yuju_Portfolio/assets/138511348/56be545c-6bdc-4496-982d-090dcd7d8f36">
+</div>
 
 
 # Second Milestone
 
+<div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TOilmYLB7iM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 - My second Milestone was to incorporate at least 3 third-party modules for my smart mirror. I did this by updating my config.js file.
 - I had to pull clones of third-party modules from GitHub in order to add them to my mirror, and I am glad to report that it was a huge success.
 - My main grief with this part of the project had to be the installation itself for the modules, because when I added them to my modules folder, the app for MagicMirror2, Electron, would not launch and instead blast me with errors.
 - The solution for this was to install the modules on both the modules folder of the smart mirror as well as on the main MagicMirror software itself. After I did this, Electron resumed working and everything worked well.
 
-  <img width="547" alt="image" src="https://github.com/ykim79/BSE_Yuju_Portfolio/assets/138511348/d35cd742-3aeb-4602-b772-c0e7ddb7a450">
+<div align="center">
+<img width="547" alt="image" src="https://github.com/ykim79/BSE_Yuju_Portfolio/assets/138511348/d35cd742-3aeb-4602-b772-c0e7ddb7a450">
+</div>
 
 # First Milestone
 
+<div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/no04TUmkrwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 
 - My first milestone was to essentially just write the code in order to display the Magic Mirror. I managed to set up the code in order to display the default display of the Magic Mirror
 - I had to install VScode in order to write this code as I do not have parts nor a Raspberry Pi as I write this because I am in Seoul, South Korea. Therefore, I am using a USB stick in order to house my Raspberry Pi OS, as well as a computer folder to house my code until my parts arrive.
 - During this milestone, my main problem was finding out a solution in order to get a crucial part of the work finished even though I have no parts, and luckily I managed to run the software on my computer, leading to the completion of my first milestone.
 - With this completion, I am starting to see that there are multiple ways to approach a rather unorthodox problem, and I hope I can keep solving these until the end.
-- <img width="730" alt="image" src="https://github.com/ykim79/BSE_Yuju_Portfolio/assets/138511348/15da7b35-c062-4807-b641-4b003cb0ef7a">
+
+<div align="center">
+<img width="730" alt="image" src="https://github.com/ykim79/BSE_Yuju_Portfolio/assets/138511348/15da7b35-c062-4807-b641-4b003cb0ef7a">
+</div>
 
 # Schematics 
 This is the basic image of a smart mirror
 
+<div align="center">
 <img width="543" alt="image" src="https://github.com/ykim79/BSE_Yuju_Portfolio/assets/138511348/b867e283-0e32-4937-977d-64a386fd93ec">
+</div>
 
 # Code
 This is my config.js code for my Magic Mirror
