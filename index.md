@@ -12,7 +12,7 @@ In this project, I created a Smart Mirror using a Raspberry Pi 4. This device go
 | Yuju K | Stevenson | Aerospace Engineering | Incoming Junior
 
 
-![Headstone Image](/BSE_Yuju_Portfolio/assets/)
+![Headstone Image](BSE_Yuju_Portfolio/assets/css/Screen Shot 2023-07-19 at 11.09.26 PM.png)
  
   # Final Milestone
 
