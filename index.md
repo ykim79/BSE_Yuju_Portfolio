@@ -8,8 +8,9 @@ In this project, I created a Smart Mirror using a Raspberry Pi 4. This device go
 |:--:|:--:|:--:|:--:|
 | Yuju K | Stevenson | Aerospace Engineering | Incoming Junior
 
-
-![Headstone Image](BSE_Yuju_Portfolio/assets/bluestamp.png)
+<div align="center">
+<img width="591" alt="bluestamp" src="https://github.com/ykim79/BSE_Yuju_Portfolio/assets/138511348/7ddb7421-764e-4ee3-adb7-febbd650b55f">
+</div>
  
 # Final Milestone
 
