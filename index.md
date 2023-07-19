@@ -27,6 +27,7 @@ In this project, I created a Smart Mirror using a Raspberry Pi 4. This device go
 
 
 # Second Milestone
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TOilmYLB7iM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - My second Milestone was to incorporate at least 3 third-party modules for my smart mirror. I did this by updating my config.js file.
