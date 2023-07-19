@@ -18,12 +18,12 @@ In this project, I created a Smart Mirror using a Raspberry Pi 4. This device go
 
 <<iframe width="560" height="315" src="https://www.youtube.com/embed/QKRQ4_55l0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
-
+- My third milestone was just to build everything around the smart mirror and setup the Raspberry Pi.
+- I booted up the Pi and installed the OS, from which it promptly took me to a home page to setup all my code.
+- I ran into a problem here as the SD card I put all of my code in was too small to take my whole VScode folder, so initially I was really worried, but fortunately, I still had my full config.js file, which meant all I had to do was manually reinstall each and every module, software and commands, just now on the Raspberry Pi itself. It really sucked, but at least I didn't start from square 1.
+- I am happy to report that the reinstallation was a success! Now all that it is left to do is build the case and now my smart mirror is finished! The challenges presented to me in this final stretch and throughout the project were tough, but it was satisfying to overcome them all.
+- The project gave me a sense of satisfaction and learning. It gave me insight on how the Raspberry Pi works, it's specific commands as well as how to write code for it and installing third-party modules. The project also helped my problem-solving skills, as whenever I encountered a problem, my reaction was not "What should I do" but rather "What can I do".
+<img width="590" alt="Screen Shot 2023-07-19 at 11 13 36 PM" src="https://github.com/ykim79/BSE_Yuju_Portfolio/assets/138511348/56be545c-6bdc-4496-982d-090dcd7d8f36">
 
 
 # Second Milestone
