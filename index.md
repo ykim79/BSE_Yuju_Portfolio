@@ -2,10 +2,7 @@
 In this project, I created a Smart Mirror using a Raspberry Pi 4. This device goes beyond the purpose of a normal mirror; it delivers updates on weather, news, art, and more, embedded subtly into the mirror’s code. In my portfolio, take a look at a mirror that not only you can admire yourself in, but update you on the world as well
 
 
-```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
+
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
