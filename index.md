@@ -9,7 +9,7 @@ In this project, I created a Smart Mirror using a Raspberry Pi 4. This device go
 | Yuju K | Stevenson | Aerospace Engineering | Incoming Junior
 
 <div align="center">
-<img width="591" alt="bluestamp" src="https://github.com/ykim79/BSE_Yuju_Portfolio/assets/138511348/7ddb7421-764e-4ee3-adb7-febbd650b55f">
+<img width="560" alt="bluestamp" src="https://github.com/ykim79/BSE_Yuju_Portfolio/assets/138511348/7ddb7421-764e-4ee3-adb7-febbd650b55f">
 </div>
  
 # Final Milestone
@@ -25,7 +25,7 @@ In this project, I created a Smart Mirror using a Raspberry Pi 4. This device go
 - The project gave me a sense of satisfaction and learning. It gave me insight on how the Raspberry Pi works, it's specific commands as well as how to write code for it and installing third-party modules. The project also helped my problem-solving skills, as whenever I encountered a problem, my reaction was not "What should I do" but rather "What can I do".
 
 <div align="center">
-<img width="590" alt="Screen Shot 2023-07-19 at 11 13 36 PM" src="https://github.com/ykim79/BSE_Yuju_Portfolio/assets/138511348/56be545c-6bdc-4496-982d-090dcd7d8f36">
+<img width="560" alt="Screen Shot 2023-07-19 at 11 13 36 PM" src="https://github.com/ykim79/BSE_Yuju_Portfolio/assets/138511348/56be545c-6bdc-4496-982d-090dcd7d8f36">
 </div>
 
 
@@ -57,14 +57,14 @@ In this project, I created a Smart Mirror using a Raspberry Pi 4. This device go
 - With this completion, I am starting to see that there are multiple ways to approach a rather unorthodox problem, and I hope I can keep solving these until the end.
 
 <div align="center">
-<img width="730" alt="image" src="https://github.com/ykim79/BSE_Yuju_Portfolio/assets/138511348/15da7b35-c062-4807-b641-4b003cb0ef7a">
+<img width="560" alt="image" src="https://github.com/ykim79/BSE_Yuju_Portfolio/assets/138511348/15da7b35-c062-4807-b641-4b003cb0ef7a">
 </div>
 
 # Schematics 
 This is the basic image of a smart mirror
 
 <div align="center">
-<img width="543" alt="image" src="https://github.com/ykim79/BSE_Yuju_Portfolio/assets/138511348/b867e283-0e32-4937-977d-64a386fd93ec">
+<img width="560" alt="image" src="https://github.com/ykim79/BSE_Yuju_Portfolio/assets/138511348/b867e283-0e32-4937-977d-64a386fd93ec">
 </div>
 
 # Code
