@@ -1,7 +1,7 @@
 # Raspberry Pi Smart Mirror
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+In this project, I created a Smart Mirror using a Raspberry Pi 4. This device goes beyond the purpose of a normal mirror; it delivers updates on weather, news, art, and more, embedded subtly into the mirror’s code. In my portfolio, take a look at a mirror that not only you can admire yourself in, but update you on the world as well
 
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
+
 ```HTML 
 <!--- This is an HTML comment in Markdown -->
 <!--- Anything between these symbols will not render on the published site -->
@@ -11,9 +11,9 @@ You should comment out all portions of your portfolio that you have not complete
 |:--:|:--:|:--:|:--:|
 | Yuju K | Stevenson | Aerospace Engineering | Incoming Junior
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
-![Headstone Image](logo.svg)
+![Headstone Image](<img width="590" alt="image" src="https://github.com/ykim79/BSE_Yuju_Portfolio/assets/138511348/6072ee4b-f9a1-4a7a-8188-ac4b7f8a8159">
+)
   
 # Final Milestone
 
