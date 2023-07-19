@@ -12,8 +12,7 @@ In this project, I created a Smart Mirror using a Raspberry Pi 4. This device go
 | Yuju K | Stevenson | Aerospace Engineering | Incoming Junior
 
 
-![Headstone Image](<img width="590" alt="image" src="https://github.com/ykim79/BSE_Yuju_Portfolio/assets/138511348/6072ee4b-f9a1-4a7a-8188-ac4b7f8a8159">
-)
+![Headstone Image](![IMG_4874](https://github.com/ykim79/BSE_Yuju_Portfolio/assets/138511348/76fee9d8-8848-4a64-b1d0-42525869b0fe))
   
 # Final Milestone
 
@@ -39,6 +38,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 - I had to pull clones of third-party modules from GitHub in order to add them to my mirror, and I am glad to report that it was a huge success.
 - My main grief with this part of the project had to be the installation itself for the modules, because when I added them to my modules folder, the app for MagicMirror2, Electron, would not launch and instead blast me with errors.
 - The solution for this was to install the modules on both the modules folder of the smart mirror as well as on the main MagicMirror software itself. After I did this, Electron resumed working and everything worked well.
+  <img width="547" alt="image" src="https://github.com/ykim79/BSE_Yuju_Portfolio/assets/138511348/d35cd742-3aeb-4602-b772-c0e7ddb7a450">
 
 # First Milestone
 
